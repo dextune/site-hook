@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 프로젝트 설명
+
+이 프로젝트는 여러 사이트를 크롤링하여 정보를 얻어오는 Next.js로 만들어진 애플리케이션입니다. Next.js의 강력한 기능을 활용하여 서버 사이드 렌더링 및 정적 사이트 생성 기능을 통해 최적화된 웹 페이지를 제공할 예정입니다.
 
 ## Getting Started
 
